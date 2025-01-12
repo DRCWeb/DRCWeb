@@ -1,11 +1,11 @@
 ```javascript
 const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Astro", "JavaScript", "Svelte"],
+    pronouns: "He",
+    code: ["Javascript", "Typescript", "Astro", "JavaScript", "Odoo"],
     askMeAbout: ["web dev", "tech", "app dev", "autodidact"],
     technologies: {	
         frontEnd: {
-            js: ["Vue"],
+            js: ["Javascript"],
             css: ["tailwindcss", "bootstrap"]
         },
         backEnd: {
@@ -13,7 +13,7 @@ const anmol = {
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "MySQL"]
+        misc: ["Firebase", "MySQL", "PostgreSQL"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing a Web App to Learn Cibersecurity",
